@@ -11,7 +11,9 @@
 [     Fiction: Dogs of War       ]
 ----------------------------------------------------------
 
-TV Screens all over The City cut short for one second, a brief of blackness as a new video was input to the queue, and forced to start playing; there were  no transitions - a cold hard shove into broadcast.
+TV Screens all over The City cut short for one second, a brief of blackness as a new video was 
+input to the queue, and forced to start playing; there were  no transitions.
+A cold hard shove into broadcast.
 For that moment, the entire city looked as if it had been rebooted.
 'Ladies, Gentlemen - and hybrids...'
 

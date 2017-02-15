@@ -68,7 +68,7 @@ A pleasant environment to walk into for the first time: even the two suits at th
 talking into each others shoulders conspiritorially don't look too out of place 
 amongst the rockers, young and old - hovering around the orb-pool table.<p>
 
-The TV above the bar offers a display of the Red Zone vs South Quadrant United football match, 
+The television above the bar offers a display of the Red Zone vs South Quadrant United football match, 
 and an overly-excitable audio description of the events of the game spoke loud enough to those
 who were interested enough to get close, but didn't distract those with no interest in the 
 [[transactional exchange]] of an inflated ball.<br>
@@ -85,8 +85,8 @@ of reaching the next octave, when for a fraction of a second, the screen blacks 
 and is replaced by a news report.<p>
 
 'We interrupt your viewing experience to bring you Breaking News.'<br> 
-the Breaking News echoed dramatically, accompanied by the kind of <br>
-intense sound effect used in a movie trailer to build suspense.<br>
+the Breaking News echoes dramatically, accompanied by the kind of <br>
+intense sound effect used in a horror movie trailer to build suspense.<br>
 [[watch report]]<br>
 [[watch orb pool]]
 
@@ -98,6 +98,15 @@ and a sequence of binary that when translated, equated to random nonsense.<p>
 
 'We are hearing reports from multiple sources worldwide, that an as of yet unnamed politicans
 mobile Comms device has been used in an attempted attack--'<br>
+
+'What the hell is this?! Turn it back!' You yell.
+The barman, who's name you have already forgotten was just as annoyed because he was watching
+it too, and protested his innocence<br>
+'I haven't touched it. This better not last long.'<br>
+[[what about other channels]]
+
+[[what about other channels]]:
+'Nah, they lock them out for the news - it takes over every channel. Fucking annoying.'
 
 [[watch orb pool]]:
 The two contenders stand around a rectangular table, the game is stylised to look like classical
@@ -111,5 +120,31 @@ Player swings his cue to his hip, and lines the laser up on the table, knowingly
 Having the advantage of seeing the pointer through the balls has its advantage, but you
 never know how a shockwave will make the table react.
 
+He lines up his shot, and <i>click</i> from his cue, and the laser turns green.<p>
+A few second pause<br>
+'He's not...' a voice from around you; at that, the blast.<br>
+Holoballs explode into a frenzy, sending them careering around in their invisible dome that
+contained them - bouncing off the interior, loop-de-looping from one end to the other in a
+destructive, magical dance.<p>
 
+'Oi!' Uh-oh, the owner.<br>
+'What have I told you about that? You're barred!"<br>
+He looks around at everyone else around the table.
+'Now I'm in a bad mood because there have been some nasty texts sent out, and I got one.<br>
+I don't want to be harsh on you guys, and I know you were only having fun - but I'm irritable 
+tonight.<br>
+Just leave the table alone tonight, please?<br>
+[[what nasty texts]]|[[can I have my credit back]]
+
+[[what nasty texts]]:
+'What nasty texts are they?' You blurt out.
+'Some politicians Comms got hacked, or cloned or whatever - and they used it to send out 
+thousands of insulting messages to just about everyone.<br>
+ // I did that, i wrote that list.
+ // See report on the news.
+
+[can I have my credit back]]:
+'I put a credit in the machine, can I get it back?... You know, if we're not using the table?', you ask.<br>
+'You cheeky little bastard, get out.'<p>
+You have left The Bootwasher.
 
